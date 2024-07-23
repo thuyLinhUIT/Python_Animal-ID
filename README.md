@@ -1,3 +1,4 @@
+### Youtube https://www.youtube.com/watch?v=rHxj3gKSltE
 ## HUẤN LUYỆN, TĂNG CƯỜNG, KIỂM THỬ VÀ ĐỌC GHI PHÂN LOẠI CON VẬT QUA HÌNH ẢNH ỨNG DỤNG MÔ HÌNH DENSENET121
 ### 1. Chuẩn bị dữ liệu
  Link dataset ggDrive: https://drive.google.com/drive/folders/1eBz6Ghd1RACblx7lxNHLuDQCuuMPdMLn?usp=sharing  
